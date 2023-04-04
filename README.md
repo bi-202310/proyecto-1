@@ -4,7 +4,8 @@ Este repositorio contiene la propuesta de negocio para llegar a los objetivos pl
 
 # Organización del repositorio
 
-`\src\` Directorio con 
+- `\data\` Directorio con los datos a utilizar en el proyecto. La muestra contiene un conjunto de prueba y un conjunto al cual se quiere predecir el sentimiento.
+- `sentiment-analysis.ipynb` es un cuaderno de Jupyter que tiene nuestra propuesta de análisis de sentimiento al conjunto de datos.
 
 
 # Sobre el equipo
